@@ -5,6 +5,7 @@
 ### Data ###
 data/
 cleaned_data/
+old_data
 *.csv
 *.dat
 *.efx
