@@ -18,7 +18,6 @@ old_data
 *.tax2010
 *.vcf
 *.xml
-*.wav
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
